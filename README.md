@@ -1,4 +1,4 @@
 ## CSS-animations-dots
-- a simple css animation with 3 dots appering and disappering one after another
+- a simple css animation with 3 dots appearing and disappearing one after another
 
 ![dots](dots.jpeg)
